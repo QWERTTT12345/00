@@ -1,0 +1,108 @@
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/01 DirectX11 Initialization/CMakeFiles/01_DirectX11_Initialization.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/01 DirectX11 Initialization/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/01 DirectX11 Initialization/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/02 Rendering a Triangle/CMakeFiles/02_Rendering_a_Triangle.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/02 Rendering a Triangle/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/02 Rendering a Triangle/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/03 Rendering a Cube/CMakeFiles/03_Rendering_a_Cube.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/03 Rendering a Cube/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/03 Rendering a Cube/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/06 Mouse and Keyboard/CMakeFiles/06_Mouse_and_Keyboard.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/06 Mouse and Keyboard/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/06 Mouse and Keyboard/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/07 Lighting/CMakeFiles/07_Lighting.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/07 Lighting/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/07 Lighting/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/08 Direct2D and Direct3D Interoperability/CMakeFiles/08_Direct2D_and_Direct3D_Interoperability.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/08 Direct2D and Direct3D Interoperability/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/08 Direct2D and Direct3D Interoperability/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/09 Texture Mapping/CMakeFiles/09_Texture_Mapping.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/09 Texture Mapping/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 01-09/09 Texture Mapping/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/10 Camera/CMakeFiles/10_Camera.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/10 Camera/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/10 Camera/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/11 Blending/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/11 Blending/CMakeFiles/11_Blending.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/11 Blending/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/12 Depth and Stenciling/CMakeFiles/12_Depth_and_Stenciling.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/12 Depth and Stenciling/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/12 Depth and Stenciling/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/13 Living Without FX11/CMakeFiles/13_Living_Without_FX11.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/13 Living Without FX11/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/13 Living Without FX11/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/14 Depth Test/CMakeFiles/14_Depth_Test.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/14 Depth Test/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/14 Depth Test/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/15 Geometry Shader Beginning/CMakeFiles/15_Geometry_Shader_Beginning.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/15 Geometry Shader Beginning/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/15 Geometry Shader Beginning/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/16 Stream Output/CMakeFiles/16_Stream_Output.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/16 Stream Output/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 10-16/16 Stream Output/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/17 Tree Billboard/CMakeFiles/17_Tree_Billboard.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/17 Tree Billboard/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/17 Tree Billboard/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/19 Meshes/CMakeFiles/19_Meshes.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/19 Meshes/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/19 Meshes/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/20 Instancing and Frustum Culling/CMakeFiles/20_Instancing_and_Frustum_Culling.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/20 Instancing and Frustum Culling/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/20 Instancing and Frustum Culling/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/21 Picking/CMakeFiles/21_Picking.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/21 Picking/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/21 Picking/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/22 Static Cube Mapping/CMakeFiles/22_Static_Cube_Mapping.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/22 Static Cube Mapping/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/22 Static Cube Mapping/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/23 Dynamic Cube Mapping/CMakeFiles/23_Dynamic_Cube_Mapping.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/23 Dynamic Cube Mapping/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/23 Dynamic Cube Mapping/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/24 Render To Texture/CMakeFiles/24_Render_To_Texture.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/24 Render To Texture/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/24 Render To Texture/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/25 Normal Mapping/CMakeFiles/25_Normal_Mapping.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/25 Normal Mapping/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 17-25/25 Normal Mapping/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/26 Compute Shader Beginning/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/26 Compute Shader Beginning/CMakeFiles/26_Compute_Shader_Beginning.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/26 Compute Shader Beginning/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/27 Bitonic Sort/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/27 Bitonic Sort/CMakeFiles/27_Bitonic_Sort.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/27 Bitonic Sort/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/28 Waves/CMakeFiles/28_Waves.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/28 Waves/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/28 Waves/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/29 OIT/CMakeFiles/29_OIT.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/29 OIT/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/29 OIT/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/30 Blur and Sobel/CMakeFiles/30_Blur_and_Sobel.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/30 Blur and Sobel/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 26-30/30 Blur and Sobel/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/31 Shadow Mapping/CMakeFiles/31_Shadow_Mapping.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/31 Shadow Mapping/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/31 Shadow Mapping/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/32 SSAO/CMakeFiles/32_SSAO.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/32 SSAO/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/32 SSAO/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/33 Tessellation/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/33 Tessellation/CMakeFiles/33_Tessellation.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/33 Tessellation/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/34 Displacement Mapping/CMakeFiles/34_Displacement_Mapping.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/34 Displacement Mapping/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/34 Displacement Mapping/CMakeFiles/rebuild_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/35 Particle System/CMakeFiles/35_Particle_System.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/35 Particle System/CMakeFiles/edit_cache.dir
+E:/C++/DirectX11-With-Windows-SDK-master/out/build/x64-Debug/Project 31-35/35 Particle System/CMakeFiles/rebuild_cache.dir
