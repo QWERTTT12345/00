@@ -1,0 +1,4 @@
+把   //ComPtr<ID3D11ShaderResourceView> m_pWoodCrate;                    // 木盒纹理
+改成了  std::vector<ComPtr<ID3D11ShaderResourceView>> m_pWoodCrate;      //木盒纹理集
+把图片放到了Textrue里
+六个面分别使用不同图片作为纹理
